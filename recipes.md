@@ -114,3 +114,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Vanilla Cake
+Ingredients:
+- Plain flour
+- Baking powder
+- Caster sugar
+- Butter
+- Milk
+- Vanilla essence
+Instructions:
+1. Using a large mixing bowl, sift together plain flour and baking powder, then mix the sugar until everything is well incorporated. Create a well in the centre and add the rest of the ingredients. Whisk until well combined.
+2. Pour into the prepared cake tin and bake for 45-50 minutes or until it turns golden. Remove from the oven and let it cool on the tin for 10 minutes. Then transfer to a wire rack and let it cool completely. 
